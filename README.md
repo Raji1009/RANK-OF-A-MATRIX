@@ -27,7 +27,8 @@ print(rank)
 ```
 
 ## Output:
-![output](<maths exp 2 ss.png>)
+![image](https://github.com/Raji1009/RANK-OF-A-MATRIX/assets/89059861/488760ba-a4a4-4f3c-aa87-0777a76e23df)
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
